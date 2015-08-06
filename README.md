@@ -1,8 +1,6 @@
 # jstransformer-html2jade [![The MIT License][license-img]][license-url]
 
-<a href="http://github.com/jstransformers/jstransformer"><img src="https://cdn.rawgit.com/jstransformers/jstransformer/master/logo.svg" align="right" width="100px" height="100px" /></a>
-
-[html2jade](https://github.com/donpark/html2jade) support for [JSTransformers][jstransformers-url].
+[html2jade](https://github.com/donpark/html2jade) support for [JSTransformers][jstransformers-url]
 
 [![travis build status][travis-img]][travis-url] [![coverage status][coveralls-img]][coveralls-url] [![dependency status][david-img]][david-url] [![npmjs.com][npmjs-img]][npmjs-url]
 
@@ -10,7 +8,6 @@
 ## Install
 ```
 npm install jstransformer-html2jade --save
-npm test
 ```
 
 
