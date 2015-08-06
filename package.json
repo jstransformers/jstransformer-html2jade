@@ -1,0 +1,29 @@
+{
+  "name": "jstransformer-html2jade",
+  "version": "0.0.0",
+  "description": "html2jade support for JSTransformers.",
+  "keywords": [
+    "html",
+    "html2jade",
+    "jade",
+    "jstransformer",
+    "transform"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "test-jstransformer": "^1.0.0"
+  },
+  "scripts": {
+    "coverage": "test-jstransformer coverage",
+    "test": "test-jstransformer"
+  },
+  "repository": "jstransformers/jstransformer-html2jade",
+  "author": "JSTransformers Team (https://github.com/orgs/jstransformers/people)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "html2jade": "^0.8.4"
+  }
+}
