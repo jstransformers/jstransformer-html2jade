@@ -24,8 +24,11 @@ var opts = {
   bodyless: true
 };
 
-console.log(html2jade.render('<p>Hello World</p>', opts).body);
-//=> 'p Hello World'
+html2jade.renderAsync('<p>Hello World</p>', opts)
+.then(function (jade) {
+  console.log(jade);
+  //=> 'p Hello World'
+});
 ```
 
 
