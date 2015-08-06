@@ -7,6 +7,6 @@ exports.name = 'html2jade';
 exports.inputFormats = ['html', 'html2jade'];
 exports.outputFormat = 'jade';
 
-exports.renderAsync = function (str, options, locals) {
+exports.renderAsync = function (str, options) {
   return convert(str, options);
 };
