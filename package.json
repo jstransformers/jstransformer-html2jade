@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-html2jade",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "html2jade support for JSTransformers.",
   "keywords": [
     "html",

@@ -2,6 +2,9 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.1.2 - 2015-08-07
+- cleanup readme, remove logo (sadly, sucks on npm site..)
+
 ## 0.1.1 - 2015-08-06
 - Release v0.1.1 / npm@v0.1.1
 - update readme example usage
