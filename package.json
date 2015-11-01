@@ -23,7 +23,7 @@
   "author": "JSTransformers Team (https://github.com/orgs/jstransformers/people)",
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^2.9.34",
+    "bluebird": "^3.0.3",
     "html2jade": "^0.8.4"
   }
 }
