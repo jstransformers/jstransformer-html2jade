@@ -4,12 +4,8 @@ sudo: false
 node_js:
   - "0.10"
   - "0.12"
-<<<<<<< HEAD
-  - "iojs"
-=======
   - "4"
   - "5"
->>>>>>> baf7091c768ba97174848a3c3f1393ec3cf9cba2
 
 after_success:
   - npm run coverage
