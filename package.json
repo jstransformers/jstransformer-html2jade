@@ -10,7 +10,7 @@
     "index.js"
   ],
   "dependencies": {
-    "html2jade": "^0.8.4",
+    "html2jade": "^0.8.6",
     "promise": "^7.0.4"
   },
   "devDependencies": {
