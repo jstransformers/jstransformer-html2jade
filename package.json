@@ -11,7 +11,7 @@
   ],
   "dependencies": {
     "html2jade": "^0.8.4",
-    "promise": "^7.0.4"
+    "promise": "^8.0.1"
   },
   "devDependencies": {
     "test-jstransformer": "^1.0.0",
