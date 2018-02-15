@@ -15,17 +15,17 @@
 ## API
 
 ```js
-var html2jade = require('jstransformer')(require('jstransformer-html2jade'));
+var html2jade = require('jstransformer')(require('jstransformer-html2jade'))
 
 var opts = {
   bodyless: true
-};
+}
 
 html2jade.renderAsync('<p>Hello World</p>', opts)
 .then(function (jade) {
-  console.log(jade);
+  console.log(jade)
   //=> 'p Hello World'
-});
+})
 ```
 
 ## License
